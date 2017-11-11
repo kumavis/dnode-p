@@ -1,5 +1,7 @@
 # dnode-promise
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/dnode-p.svg)](https://greenkeeper.io/)
+
 Use promises on your [dnode](https://github.com/substack/dnode) server.
 
 ## installation
