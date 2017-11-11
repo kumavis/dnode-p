@@ -1,0 +1,22 @@
+{
+  "name": "dnode-p",
+  "version": "1.0.0",
+  "description": "Dnode with promise support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dnode",
+    "promise"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cb-ify": "^1.0.1",
+    "dnode": "^1.2.2",
+    "pify": "^3.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
